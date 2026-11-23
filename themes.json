@@ -38,6 +38,16 @@
       "keywords": ["color-theme", "theme", "monokai", "dark", "classic"],
       "latest_version": "1.0.0",
       "fresh_min_version": "0.1.75"
+    },
+    "kanagawa-paper": {
+      "description": "Kanagawa Paper Canvas (light) and Ink (dark): muted ink-wash colors from kanagawa-paper.nvim",
+      "repository": "https://github.com/mattpetters/fresh-kanagawa-paper",
+      "author": "mattpetters",
+      "license": "MIT",
+      "keywords": ["theme", "kanagawa", "kanagawa-paper", "dark", "light"],
+      "variants": ["dark", "light"],
+      "latest_version": "1.0.0",
+      "fresh_min_version": "0.5.9"
     }
   }
 }
